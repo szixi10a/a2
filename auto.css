@@ -6,6 +6,7 @@
         line-height: 1.5em; /* Az előzővel megegyező érték */
         cursor: pointer;
         transition: max-height 0.3s ease; /* Animáció hozzáadása */
+        background-color: azure;
       }
       
 .leiras:hover {
@@ -28,4 +29,7 @@
 }
 footer{
   text-align: center;
+}
+body{
+  background-image: url(autokereskedes.jpg);
 }
