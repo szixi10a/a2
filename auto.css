@@ -31,5 +31,8 @@ footer{
   text-align: center;
 }
 body{
-  background-image: url(autokereskedes.jpg);
+  background-color: wheat;
+}
+#container{
+  background-color: green;
 }
